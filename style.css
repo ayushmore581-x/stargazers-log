@@ -1,0 +1,41 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+  color: #111;
+  background: #f9fafb;
+}
+
+h1,
+h2 {
+  color: #0f172a;
+}
+
+section {
+  max-width: 42rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 0.75rem 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  background: white;
+  margin-bottom: 0.75rem;
+}
+
+li strong {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+li span {
+  color: #475569;
+  font-size: 0.95rem;
+}
